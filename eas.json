@@ -4,7 +4,8 @@
   },
   "build": {
     "production": {
-      "node": "16.15.0"
+      "node": "16.15.0",
+      "channel": "production"
     },
     "development": {
       "extends": "production",
@@ -13,7 +14,8 @@
     },
     "preview": {
       "extends": "production",
-      "distribution": "internal"
+      "distribution": "internal",
+      "channel": "preview"
     }
   },
   "submit": {

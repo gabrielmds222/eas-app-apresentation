@@ -12,7 +12,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/647e1e1a-7952-458c-bf2d-bb3a3f38a3d0"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -34,6 +35,12 @@
       "eas": {
         "projectId": "647e1e1a-7952-458c-bf2d-bb3a3f38a3d0"
       }
-    }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "plugins": [
+      "sentry-expo"
+    ]
   }
 }

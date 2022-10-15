@@ -9,6 +9,12 @@ import {
   TouchableOpacity,
 } from "react-native";
 
+// import * as Sentry from '@sentry/react-native';
+
+// Sentry.init({
+//   dsn: 'https://3117721c24c94dfd90476223638d18f8@o4503974332989440.ingest.sentry.io/4503974356516864',
+// });
+
 export default function App() {
   const [username, setUsername] = useState("");
   const [email, setEmail] = useState("");
@@ -25,7 +31,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Bem-vindo(a)</Text>
+      <Text style={styles.title}>Bem-vindo(a), olá</Text>
 
       <TextInput
         style={styles.textInput}
