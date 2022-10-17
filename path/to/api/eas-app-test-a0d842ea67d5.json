@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eas-app-test",
+  "private_key_id": "a0d842ea67d5b61d581c0151a36c497881273ac9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmF6gYGEsVAeDc\nQ/+FXhwvfFX8HmAhNYHbB1hnIa/es9eJG7RYqbCTkxDKnH7dUjV5mMIyxfqnkkBj\nAK0wZ+/IWxinabSCWZ218BxsnXHIAuFXxAWdMyQykUajHW7jp3/Hab7H5XUaTRmc\ndRGeU8M2CFHrXIbuR4oEECQZ2GnYkewBpCXH7+mls95BuiNyOLa4UnB0UDH0dCRV\nrfZTJLBaFNbK/25qaoW+dUY/LgeM4akqtEl/IhgFeEnsupq8lBC28nbAgqoUCnLT\nvVKX1Yq924oRZkg8yaN9jY/RPBv88JqwdfYLa763N+GgLaFa2odesJH/uHZo1YRc\nDixe/pcfAgMBAAECggEAAPjgE2c6mUbhI0KEOyppc9KAfL2yX/KWOssr0BhSyGgf\neaTF3qovms2GxAjVqhBfHvUVirW9JkBYf1Vzrg+nSAu9QZpmyhSINDAEzcXy8ouO\nkhrw0kWIXE6clG8Jq4XbEGm+cId+GS22Wd1KWxwWZzlccWPU2ydkCwRx+AzCO3Hf\n+zONQ+9odGDtULtRBME8Kw2iW4CbAIoRZNOdPdx0NEUPtpVo0u2NAF0yAlTt0rkS\nlkPvo4xB8wUqup8gVTtxoWoqe9RpO3KiHDxMs2g9SAZYNR5RTDC6Nwd6rVUkYyNT\nePmPAzFiD6xGecvqo8m50RuGIYAhYBJAEl/ENBYA4QKBgQDmX7nbGGpIr28dPRVn\njrzvn6t0iz89kKqGI5AHrHte17HM5Iz5CxOKiDtpmwkJJG6OpC55bg87ncTKfgII\nij8FLEFux4Ewb+N9K/MnVu69Ubjfv7l5GCDVQaGaYUcvRD6JwDwiAEtZk3UKC0GN\nCCrXOA9/u/rViLV8pQWKcwj7lwKBgQC4kWjHbJp1DvklWaTmjVupijxVHL6qe6Hj\nRXcL1Mdwhp0+dVBrANuzMY6AU7O0slRU5PBjOw2XNuf8gPhEixtX2U8hVdbbK5U8\nWZF8VVzdy/OHLHx7QCNUZxqaZrv8SMUlStUy11ed0/yrfOb7sb3VO+QMgkxkrafP\nPWo3PgpRuQKBgFhUS8adzeKgoVHsodBbAkY+SlcdLNpGJZvY9th6YbMzsJCG8SZs\nAMoVAfKz5vsCZQF8IfWdJWoOS+338n+jwhYRqeT3yajwvaC4wTpMMq2UL/ZaZJrx\njWU3DOdMdSbCW9glROkkg7+MsktvlWqlvwdWD1tCkCJfkHaCL2WuRbtxAoGBAJEZ\n6DkYPZoXynG9tzF2IoD4Z5Q2RAN9rPkjDINlpeHmQsruqellxFNte22R4G8H39ra\nHc61h2rBRMKzlfs1Larz8gzwEjk+W1YVyJXp+ld41x0HMVooQ15ArJ6Ec/fUMgGu\ngkw1FfHDzhn32RQ5WVfBfPkEmxBvocUAsHd7s9spAoGBANID9JJHICpdm7Rt2Uk+\nwqKqXlS6O4/ouq0YJmI2sZKOqJanQVsREK7FqD3MGrhN7w6YrK2REruUVzrLv02O\n6Do7vWNcDtb0zy9r5mN5oNXBNvAASiF9hrCbd9sp2sRzt9gP3dbn1sGhqARYjdPW\nMRPDNQxwb7cgpdM5IqPu83kz\n-----END PRIVATE KEY-----\n",
+  "client_email": "eas-app-test@eas-app-test.iam.gserviceaccount.com",
+  "client_id": "105220357512364768131",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eas-app-test%40eas-app-test.iam.gserviceaccount.com"
+}
